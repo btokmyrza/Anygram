@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="telegram_api_id">14337879</integer>
+    <string name="telegram_api_hash">d77f12f0d9db1df1b468da94722b3ccc</string>
+</resources>
