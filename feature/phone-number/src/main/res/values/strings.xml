@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_number_title">Your phone number</string>
+    <string name="phone_number_subtitle">Please confirm your country code\nand enter your phone number.</string>
+    <string name="phone_number_country_chooser_content_description">Select country</string>
+    <string name="phone_number_country_chooser_label">Country</string>
+    <string name="phone_number_field_label">Phone Number</string>
+</resources>
