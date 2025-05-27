@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_number_title">Your phone number</string>
+    <string name="phone_number_subtitle">Please confirm your country code\nand enter your phone number.</string>
+    <string name="phone_number_country_chooser_content_description">Select country</string>
+    <string name="phone_number_country_chooser_label">Country</string>
+    <string name="phone_number_field_label">Phone Number</string>
+
+    <string name="phone_number_error_title_unknown">Unknown Error</string>
+    <string name="phone_number_error_message_unknown">An unexpected error occurred. Please try again later.</string>
+
+    <string name="phone_number_error_title_invalid_number">Invalid Number</string>
+    <string name="phone_number_error_message_invalid_number">The phone number you entered is not valid. Please check the format and try again.</string>
+
+    <string name="phone_number_error_title_banned_number">Number Banned</string>
+    <string name="phone_number_error_message_banned_number">This phone number has been banned from using Telegram.</string>
+
+    <string name="phone_number_error_title_too_many_requests">Too Many Attempts</string>
+    <string name="phone_number_error_message_too_many_requests">You have made too many attempts. Please wait a while before trying again.</string>
+
+    <string name="phone_number_error_title_api_invalid">Configuration Error</string>
+    <string name="phone_number_error_message_api_invalid">The application is configured incorrectly. Please contact support.</string>
+
+    <string name="phone_number_error_dialog_button">OK</string>
+</resources>
